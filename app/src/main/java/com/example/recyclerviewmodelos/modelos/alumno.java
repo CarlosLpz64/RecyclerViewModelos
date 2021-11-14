@@ -14,10 +14,10 @@ public class alumno {
         Edad = edad;
     }
 
+    //GET Y SET
     public String getNombre() {
         return Nombre;
     }
-
     public void setNombre(String nombre) {
         Nombre = nombre;
     }
@@ -25,7 +25,6 @@ public class alumno {
     public String getMatricula() {
         return Matricula;
     }
-
     public void setMatricula(String matricula) {
         Matricula = matricula;
     }
@@ -33,7 +32,6 @@ public class alumno {
     public String getTelefono() {
         return Telefono;
     }
-
     public void setTelefono(String telefono) {
         Telefono = telefono;
     }
@@ -41,7 +39,6 @@ public class alumno {
     public String getEdad() {
         return Edad;
     }
-
     public void setEdad(String edad) {
         Edad = edad;
     }
